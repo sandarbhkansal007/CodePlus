@@ -1804,29 +1804,29 @@ codepulse/
 ├── backend/
 │   ├── analyzer/
 │   │   ├── __init__.py
-│   │   ├── file_reader.py           (560 lines)
-│   │   ├── ast_parser.py            (420 lines)
-│   │   ├── complexity.py            (380 lines)
-│   │   ├── style_detector.py        (450 lines)
-│   │   ├── universal_analyzer.py    (260 lines)
-│   │   ├── anomaly_detector.py      (690 lines)
-│   │   └── git_analyzer.py          (310 lines)
+│   │   ├── file_reader.py           (249 lines)
+│   │   ├── ast_parser.py            (219 lines)
+│   │   ├── complexity.py            (336 lines)
+│   │   ├── style_detector.py        (387 lines)
+│   │   ├── universal_analyzer.py    (256 lines)
+│   │   ├── anomaly_detector.py      (692 lines)
+│   │   └── git_analyzer.py          (316 lines)
 │   ├── scorer/
 │   │   ├── __init__.py
-│   │   ├── health_calculator.py     (380 lines)
-│   │   ├── personality.py           (310 lines)
-│   │   └── comparator.py            (220 lines)
+│   │   ├── health_calculator.py     (375 lines)
+│   │   ├── personality.py           (306 lines)
+│   │   └── comparator.py            (135 lines)
 │   ├── generator/
 │   │   ├── __init__.py
-│   │   └── readme_generator.py      (850 lines)
+│   │   └── readme_generator.py      (848 lines)
 │   └── codepulse_analyzer.py        (280 lines)
-├── streamlit_app.py                 (1,240 lines)
+├── streamlit_app.py                 (1,008 lines)
 ├── requirements_dashboard.txt
 ├── README.md
 ├── TECHNICAL_REPORT.md              (this document)
 └── LICENSE
 
-Total Lines of Code: ~6,340 lines
+Total Lines of Code: ~5,500 lines
 ```
 
 ---

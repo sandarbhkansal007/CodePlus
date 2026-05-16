@@ -581,7 +581,7 @@ A: Yes! It has algorithms, web dev, databases, and practical use.
 - ✅ **BONUS:** Automatic README generation saves hours of work!
 
 **Stats:**
-- 📊 **6,340 lines of code** written
+- 📊 **5,500+ lines of code** written
 - 🔍 **6 anomaly detection algorithms** implemented
 - 🌐 **12+ programming languages** supported
 - 📄 **42-page technical report** completed
