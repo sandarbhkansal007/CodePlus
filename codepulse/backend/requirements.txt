@@ -1,0 +1,23 @@
+# CodePulse Backend Requirements
+
+# Core dependencies
+# No external packages needed for basic functionality!
+# All analysis uses Python standard library
+
+# Optional: For future web API
+# fastapi==0.104.1
+# uvicorn[standard]==0.24.0
+# pydantic==2.5.0
+# sqlalchemy==2.0.23
+# psycopg2-binary==2.9.9
+
+# Optional: For enhanced analysis
+# radon==6.0.1          # Advanced code metrics
+# pylint==3.0.3         # Additional code quality checks
+# bandit==1.7.5         # Security scanning
+
+# Development dependencies
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.12.0
+# flake8==6.1.0

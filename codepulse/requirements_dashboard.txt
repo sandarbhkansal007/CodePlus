@@ -1,0 +1,8 @@
+# CodePulse Dashboard Requirements
+
+# Streamlit dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Note: Core analyzer needs NO dependencies (uses only Python standard library)
+# These are ONLY for the web dashboard
